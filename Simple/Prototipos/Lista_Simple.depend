@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1532440909 source:c:\users\adria\desktop\lista_simple\f_lista_simple.c
+	<stdio.h>
+	<stdlib.h>
+	"F_Lista_Simple.h"
+
+1532440977 c:\users\adria\desktop\lista_simple\f_lista_simple.h
+
+1532441337 source:c:\users\adria\desktop\lista_simple\main.c
+	<stdio.h>
+	<stdlib.h>
+	"F_Lista_Simple.h"
+

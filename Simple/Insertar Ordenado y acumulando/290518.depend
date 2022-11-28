@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1527627404 source:c:\users\laboratorios\desktop\290518\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_tomas.h"
+
+1527627379 source:c:\users\laboratorios\desktop\290518\lista_tomas.c
+	"lista_tomas.h"
+
+1527625794 c:\users\laboratorios\desktop\290518\lista_tomas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1527613332 source:c:\users\adria\desktop\290518\lista_tomas.c
+	"lista_tomas.h"
+
+1527613332 c:\users\adria\desktop\290518\lista_tomas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1527613334 source:c:\users\adria\desktop\290518\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_tomas.h"
+
+1527613332 source:c:\users\adria\desktop\nueva carpeta\insertar ordenado y acumulando\lista_tomas.c
+	"lista_tomas.h"
+
+1527613332 c:\users\adria\desktop\nueva carpeta\insertar ordenado y acumulando\lista_tomas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1527613334 source:c:\users\adria\desktop\nueva carpeta\insertar ordenado y acumulando\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_tomas.h"
+
+1527613332 source:e:\universidad nacional de la matanza\segundo año\programacion\mio\ejercicios\lista\insertar ordenado y acumulando\lista_tomas.c
+	"lista_tomas.h"
+
+1527613332 e:\universidad nacional de la matanza\segundo año\programacion\mio\ejercicios\lista\insertar ordenado y acumulando\lista_tomas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1527613334 source:e:\universidad nacional de la matanza\segundo año\programacion\mio\ejercicios\lista\insertar ordenado y acumulando\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_tomas.h"
+
+1532968667 source:c:\users\adria\desktop\programacion\mio\ejercicios\c\pila, cola, lista\lista\simple\insertar ordenado y acumulando\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_tomas.h"
+
+1527613332 c:\users\adria\desktop\programacion\mio\ejercicios\c\pila, cola, lista\lista\simple\insertar ordenado y acumulando\lista_tomas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532968712 source:c:\users\adria\desktop\programacion\mio\ejercicios\c\pila, cola, lista\lista\simple\insertar ordenado y acumulando\lista_tomas.c
+	"lista_tomas.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1527014945 source:c:\users\adria\desktop\programacion\mio\ejercicios\lista\01\01\f_01.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"F_01.h"
+
+1527015650 c:\users\adria\desktop\programacion\mio\ejercicios\lista\01\01\f_01.h
+
+1527015684 source:c:\users\adria\desktop\programacion\mio\ejercicios\lista\01\01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"F_01.h"
+

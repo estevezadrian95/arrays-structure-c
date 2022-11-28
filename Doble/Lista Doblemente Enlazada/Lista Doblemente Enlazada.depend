@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1528673470 source:c:\users\gasto\onedrive\escritorio\lista doblemente enlazada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"F_LDE.h"
+
+1528673571 c:\users\gasto\onedrive\escritorio\lista doblemente enlazada\f_lde.h
+
